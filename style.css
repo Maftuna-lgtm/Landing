@@ -1,0 +1,163 @@
+body{
+    font-family: 'TT Hoves';
+    color: #222222; ;
+    margin: 0;
+    
+}
+section {
+    padding: 0 120px;
+ 
+}
+
+.logo{
+    display: flex;
+width: 295px;
+height: 41px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+
+}
+.courseData {
+    font-size: 21px;
+    line-height: 140%;
+    display: flex;
+    gap: 30px 160px;
+    flex-wrap: wrap;
+    margin-top: 85px;
+}
+
+
+
+.courseData .value{
+    font-size: 21px;
+   font-weight: 700px;
+   
+
+}
+
+h1{
+    font-size: 80px;
+    font-family: Chava;
+    line-height: 110%;
+    margin: 76px o 40px;
+
+}
+p {
+    font-size: 27px;
+    font-weight: 300;
+    line-height: 140%;
+}
+.cta{
+
+}
+.primary{
+   
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 0;
+    width: 328px;
+    padding: 20px 0px;
+    align-items: flex-start;
+    gap: 10px;
+    background-color:#6E3ABA;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 20px 0;
+
+
+}
+.secondary{
+    display: flex;
+flex-direction: column;
+flex: 1 0 0;
+color: #6E3ABA;
+text-align: center;
+font-family: TT Hoves;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  
+}
+h1{
+    display: flex;
+    width: 769px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: auto;
+   
+
+}
+.student-info-wraper{
+    display:flex;
+
+
+}
+img{
+    display:flex;
+    width: 287px;
+    height: 287px;
+    flex-shrink: 0;
+    
+}
+h6{
+    font-size: 27px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%;
+text-transform: uppercase;
+}
+p{
+    display:flex;
+   width: 450px;
+   flex-direction: column;
+font-size: 27px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+
+
+
+p{
+    display: flex;
+width: 450px;
+flex-direction: column
+}
+
+h6{
+    
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: uppercase;
+
+}
+.course-program-wraper{
+    display: flex;
+}
+
+h1{
+    display: flex;
+width: 769px;
+flex-direction: column;
+flex-shrink: 0;
+font-size: 58px;
+font-weight: 500;
+letter-spacing: 0.58px;
+text-transform: uppercase;
+}
+h6{
+    display: flex;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 140%;
+text-transform: uppercase;
+}
+p{
+    display: flex;
+width: 400px;
+flex-direction: column
+}
